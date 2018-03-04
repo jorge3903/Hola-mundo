@@ -18,7 +18,7 @@ public class Compartido {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"agrega lo que quieras");
-         JOptionPane.showMessageDialog(null,"agrega lo que quieras");
+         JOptionPane.showMessageDialog(null,"editado por Edoardo");
     }
     
 }
