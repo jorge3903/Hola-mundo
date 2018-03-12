@@ -17,8 +17,11 @@ public class Compartido {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"prueba Héctor");
+        JOptionPane.showMessageDialog(null,"Hola Mundo");
          JOptionPane.showMessageDialog(null,"editado por Edoardo");
+        JOptionPane.showMessageDialog(null,"editado por Hector");
+        JOptionPane.showMessageDialog(null,"editado por Nallely");
+        JOptionPane.showMessageDialog(null,"editado por Sam");
     }
     
 }
